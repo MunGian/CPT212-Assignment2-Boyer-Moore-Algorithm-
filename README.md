@@ -1,1 +1,1 @@
-# CPT212-Assignment2-Boyer-Moore-Algorithm-
+# CPT212-Assignment2-Boyer-Moore-Algorithm
